@@ -35,5 +35,5 @@ I have experience with OOP Programing and C# programming for Unity
 - [Game Naughty](https://dtawan.itch.io/naughty) 
 - [Game Naughty Mobile](https://naughtybu.itch.io/naughtymobile)
 - [Create an Advertisement for Samsung Galaxy](https://www.youtube.com/watch?v=GCzYm4wQkQE)
- - [Project Kamaria]([https://www.youtube.com/watch?v=GCzYm4wQkQE](https://store.steampowered.com/app/2128500/Kamaria/?beta=0))
+ - [Project Kamaria](https://store.steampowered.com/app/2128500/Kamaria/?beta=0)
 </details>
