@@ -25,11 +25,11 @@ I have experience with OOP Programing and C# programming for Unity
 - Adobe premiere pro (Basic)
 - Adobe after effects (Basic)
 - Adobe photoshop (Basic)
-<details>
+</details>
 
 <details>
 <summary><b><h2>Portfolio</h2></b></summary> 
 - [Game Naughty](https://dtawan.itch.io/naughty) 
 - [Game Naughty Mobile](https://naughtybu.itch.io/naughtymobile)
 - [Create an Advertisement for Samsung Galaxy](https://www.youtube.com/watch?v=GCzYm4wQkQE)
-<details>
+</details>
