@@ -12,6 +12,7 @@ I have experience with OOP Programing and C# programming for Unity
 **Programming Language**
 - C# (Intermediate)
 - C (Intermediate)
+- C++ (Basic)
 - HLSL (Basic)
 - CSS (Basic)
 - Python (Basic)
@@ -23,6 +24,7 @@ I have experience with OOP Programing and C# programming for Unity
 **TOOL**
 - Unity (Intermediate)
 - Github (Intermediate)
+- Unreal engine 5 (Basic)
 - Maya (Basic)
 - Adobe premiere pro (Basic)
 - Adobe after effects (Basic)
